@@ -1,4 +1,6 @@
 # speekDemo
+[![](https://jitpack.io/v/JackSam555/speekDemo.svg)](https://jitpack.io/#JackSam555/speekDemo)
+
 Step 1. Add the JitPack repository to your buil
 d file   gradle
 Add it in your root build.gradle at the end of repositories:
